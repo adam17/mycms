@@ -4,7 +4,7 @@ HTTP server is Nginx run on my own computer, OS is OpenBSD.
 
 ## Steps
 
-- [ ] CMS Core Design
+- [x] CMS Core Design
 - [ ] User Management
 - [ ] Page management
 - [ ] Design Templates
